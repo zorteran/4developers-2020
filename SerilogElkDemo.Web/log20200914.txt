@@ -1,0 +1,8 @@
+{"Timestamp":"2020-09-14T22:24:12.5619305+02:00","Level":"Information","MessageTemplate":"User: {username}","Properties":{"username":"a@b.pl"}}
+{"Timestamp":"2020-09-14T22:24:12.7504609+02:00","Level":"Information","MessageTemplate":"For loop... {i}","Properties":{"i":0}}
+{"Timestamp":"2020-09-14T22:24:12.7612219+02:00","Level":"Information","MessageTemplate":"For loop... {i}","Properties":{"i":1}}
+{"Timestamp":"2020-09-14T22:24:12.7682268+02:00","Level":"Information","MessageTemplate":"For loop... {i}","Properties":{"i":2}}
+{"Timestamp":"2020-09-14T22:24:12.7757662+02:00","Level":"Information","MessageTemplate":"For loop... {i}","Properties":{"i":3}}
+{"Timestamp":"2020-09-14T22:24:12.7822042+02:00","Level":"Information","MessageTemplate":"For loop... {i}","Properties":{"i":4}}
+{"Timestamp":"2020-09-14T22:24:12.7885108+02:00","Level":"Information","MessageTemplate":"For loop... {i}","Properties":{"i":5}}
+{"Timestamp":"2020-09-14T22:24:12.9989090+02:00","Level":"Error","MessageTemplate":"Strange... something broke","Exception":"System.Exception: ups!\r\n   at SerilogElkDemo.Web.Controllers.HomeController.Index() in C:\\Users\\zorte\\Desktop\\4dev-demo\\SerilogElkDemo.Web\\Controllers\\HomeController.cs:line 51"}
